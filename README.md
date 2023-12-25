@@ -37,7 +37,9 @@ To use the Basketball-Scoreboard project, follow these steps:
 
 ## Usage💻
 Once the Basketball-Scoreboard project is running in your web browser, you can:
+- Navigate to the site from this link: https://yaraelbassaal.github.io/Basketball-Scoreboard/
 - Use the buttons to increment the scores for each team
 - Start again if you want
+  
 
 
