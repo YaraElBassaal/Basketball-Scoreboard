@@ -1,4 +1,5 @@
-#### Basketball-Scoreboard
+# Basketball-Scoreboard
+![score](https://github.com/YaraElBassaal/Basketball-Scoreboard/assets/124288726/68f2bedc-99da-4fae-b08b-ad6275cb7857)
 
 The Basketball-Scoreboard project is a static website that serves as a basketball scoreboard. It was created as part of the Scrimba Front-End course, where I learned how to build web designs from scratch and use Flexbox and "div" properly.
 
